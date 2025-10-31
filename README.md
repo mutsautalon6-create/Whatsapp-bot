@@ -22,11 +22,11 @@ TALON is a multi-device WhatsApp bot built using the Baileys library. Created by
 ### 🏷️ Badges
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/mutsautalon6-create/TALON?style=for-the-badge" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/mutsautalon6-create/TALON?style=for-the-badge" alt="Forks"/>
-  <img src="https://img.shields.io/github/issues/mutsautalon6-create/TALON?style=for-the-badge" alt="Issues"/>
-  <img src="https://img.shields.io/github/license/mutsautalon6-create/TALON?style=for-the-badge" alt="License"/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mutsautalon6-create.TALON" alt="Visitor Counter"/>
+  <img src="https://img.shields.io/github/stars/mutsautalon6-create/JINU-II?style=for-the-badge" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/mutsautalon6-create/JINU-II?style=for-the-badge" alt="Forks"/>
+  <img src="https://img.shields.io/github/issues/mutsautalon6-create/JINU-II?style=for-the-badge" alt="Issues"/>
+  <img src="https://img.shields.io/github/license/mutsautalon6-create/JINU-II?style=for-the-badge" alt="License"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mutsautalon6-create.JINU-II" alt="Visitor Counter"/>
 </div>
 
 ---
@@ -42,7 +42,7 @@ Follow these 3 simple steps to get your bot running:
 Click below to fork the TALON bot repo to your GitHub account:
 
 <div align="center">
-  <a href="https://github.com/mutsautalon6-create/TALON/fork">
+  <a href="https://github.com/mutsautalon6-create/JINU-II/fork">
     <img src="https://img.shields.io/badge/Fork%20Repo-GitHub-blue?style=for-the-badge&logo=github" alt="Fork Repo"/>
   </a>
 </div>
@@ -54,7 +54,7 @@ Click below to fork the TALON bot repo to your GitHub account:
 Generate your WhatsApp session file using the Pair Code method:
 
 <div align="center">
-  <a href="https://talon-pair.onrender.com/">
+  <a href="https://jinu-II-pair.onrender.com/">
     <img src="https://img.shields.io/badge/Get%20Session%20File-Pair%20Code-28a745?style=for-the-badge&logo=whatsapp" alt="Pair Code"/>
   </a>
 </div>
@@ -101,7 +101,7 @@ Watch tutorials, updates, and bot showcases:
 
 ### 🙌 Support & Contributions
 
-Feel free to contribute, suggest features, or report issues via the [GitHub Issues Page](https://github.com/mutsautalon6-create/TALON/issues).
+Feel free to contribute, suggest features, or report issues via the [GitHub Issues Page](https://github.com/mutsautalon6-create/JINU-II/issues).
 
 If you love this bot, give it a ⭐️ on GitHub!
 this bot developed by Proffessor Talon Mutsau is good
